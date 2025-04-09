@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @duongtanhung92
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-duongtanhung92/duongtanhung92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @duongtanhung92
+👀 I’m interested in Android development, Chrome Extensions, smart TV apps, and eCommerce solutions.
+🌱 I’m currently learning more about AI integration, and optimizing multi-platform sales.
+💞️ I’m looking to collaborate on creative tech projects, especially ones involving YouTube, TikTok, and automation.
+📫 How to reach me: Facebook | Zalo: duongtanhung92 | Email: duongtanhung92@gmail.com
